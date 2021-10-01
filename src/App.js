@@ -12,6 +12,17 @@ function App() {
             <Weather />
           </div>
         </div>
+        <div className="openSourceCode">
+          <a
+            href="https://github.com/chloedentrinos/weather-app"
+            target="_blank"
+            rel="noreferrer"
+            className="openSourceCodeLink"
+          >
+            Open-source code
+          </a>
+          , by Chloe Dentrinos
+        </div>
       </div>
     </div>
   );
