@@ -1,0 +1,52 @@
+.Weather .showers {
+  font-size: 18px;
+}
+
+.Weather .iconCurrent {
+  font-size: 100px;
+  text-align: right;
+  padding-right: 2px;
+  position: relative;
+  bottom: 27px;
+}
+
+.Weather .currentTemperatureAll {
+  padding-left: 2px;
+  padding-right: 0px;
+  width: 30%;
+}
+
+.Weather .currentTemperatureUnit,
+.currentTemperatureUnitSeparator {
+  text-decoration: none;
+  color: black;
+  position: relative;
+  bottom: 30px;
+}
+
+.Weather .currentTemperatureUnit:hover {
+  cursor: pointer;
+}
+
+.Weather .currentWeatherExtras {
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 20%;
+}
+
+.Weather .day,
+.iconFuture {
+  text-align: center;
+}
+
+.Weather .iconFuture {
+  font-size: 60px;
+}
+
+.Weather .cloud-rain {
+  color: rgb(172, 172, 172);
+}
+
+.Weather .cloud-sun {
+  color: rgb(232 191 16 / 86%);
+}
