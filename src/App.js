@@ -9,7 +9,7 @@ function App() {
       <div className="container col-auto">
         <div className="card">
           <div className="card-body">
-            <Weather />
+            <Weather defaultCity="Penrith" />
           </div>
         </div>
         <footer className="openSourceCode">
