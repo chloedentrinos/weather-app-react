@@ -12,7 +12,7 @@ function App() {
             <Weather />
           </div>
         </div>
-        <div className="openSourceCode">
+        <footer className="openSourceCode">
           <a
             href="https://github.com/chloedentrinos/weather-app"
             target="_blank"
@@ -22,7 +22,7 @@ function App() {
             Open-source code
           </a>
           , by Chloe Dentrinos
-        </div>
+        </footer>
       </div>
     </div>
   );
